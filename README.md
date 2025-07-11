@@ -1,2 +1,2 @@
-# Road_to_ML
-Road to Data Science / ML Engineer.
+# Road To ML & Data Science
+Road to ML Engineer & Data Science.
