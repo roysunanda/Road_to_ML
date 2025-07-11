@@ -1,0 +1,13 @@
+ipykernel
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+nbconvert
+openpyxl
+imbalanced-learn
+pingouin
+ydata-profiling
+yellowbrick
+statsmodels
